@@ -1,0 +1,7 @@
+## Arquivos de Áudio
+Os arquivos de áudio (.mp3) devem ser colocados nesta pasta
+e nomeados de forma numérica (1.mp3, 2.mp3, ...)
+para que o player funcione.
+
+Os arquivos não foram incluídos no repositório
+devido ao seu tamanho.
